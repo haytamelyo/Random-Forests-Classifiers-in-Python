@@ -28,3 +28,9 @@ It works in four steps:
 - Random forests is slow in generating predictions because it has multiple decision trees. Whenever it makes a prediction, all the trees in the forest have to make a prediction for the same given input and then perform voting on it. This whole process is time-consuming.
 - The model is difficult to interpret compared to a decision tree, where you can easily make a decision by following the path in the tree.
 
+## Random Forests vs Decision Trees
+
+- Random forests is a set of multiple decision trees.
+- Deep decision trees may suffer from overfitting, but random forests prevents overfitting by creating trees on random subsets.
+- Decision trees are computationally faster.
+- Random forests is difficult to interpret, while a decision tree is easily interpretable and can be converted to rules.
