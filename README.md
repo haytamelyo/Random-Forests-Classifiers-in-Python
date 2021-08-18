@@ -1,4 +1,4 @@
-# Random Forests Classifiers in Python
+# Human Activity Recognition with Smartphones using Random Forests Classifiers
 
 ## Random forests 
 
